@@ -45,12 +45,18 @@ I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I spe
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonsoo24&layout=compact&theme=radical" alt="Nonso's Most Used Language" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nonsoo24&show_icons=true&theme=tokyonight" alt="Nonso's GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonsoo24&theme=tokyonight" alt="Nonso's GitHub streak" />
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nonsoo24&color=blueviolet&style=flat)
 
 ---
 💬 Ask me about: Frontend Technologies, Frontend Optimisations, Frontend Architecture, Design Systems, 
@@ -92,14 +98,6 @@ I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I spe
 - **Twitter:** [@dani_chuks](https://twitter.com/dani_chuks)
 - **Instagram:** [danielchukwura](https://www.instagram.com/danielchukwura/) 
 - **LinkedIn:** [Daniel Chukwurah](https://www.linkedin.com/in/daniel-chukwurah/)  
-
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=nonsoo24&color=blueviolet&style=flat)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonsoo24&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nonsoo24&show_icons=true&hide=stars&count_private=true&theme=radical)
 
 ---
 
