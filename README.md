@@ -79,7 +79,7 @@ I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I spe
 - **Frontend Developer** @ MetaValuation  
   Built key UI components for pairwise evaluation flows, contribution visualisation, and contributor circle representation.
 
-- **Contributor** @ CHAOSS Group – *Funding Impact Measurement*  
+- **Contributor** @ [CHAOSS](https://chaoss.community/) – *Funding Impact Measurement*  
   Participated in developing metrics that assess the impact of funding in open source ecosystems.  
 
 
@@ -95,8 +95,18 @@ I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I spe
 
 ---
 
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=nonsoo24&color=blueviolet&style=flat)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonsoo24&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nonsoo24&show_icons=true&hide=stars&count_private=true&theme=radical)
+
+---
+
 ### 🌟 Fun Fact
 
 I’m not a fan of cooking — but whenever I step into the kitchen, I somehow end up making the best meals!  
 Also, I absolutely love traveling and discovering new cultures, foods, and stories from around the world.
+
+---
 
