@@ -97,5 +97,6 @@ I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I spe
 
 ### 🌟 Fun Fact
 
-I hate cooking but when I enter the kitchen I make the best meals. I also love traveling.
+I’m not a fan of cooking — but whenever I step into the kitchen, I somehow end up making the best meals!  
+Also, I absolutely love traveling and discovering new cultures, foods, and stories from around the world.
 
