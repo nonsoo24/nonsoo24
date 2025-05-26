@@ -19,7 +19,6 @@
 
 I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I specialise in building scalable web and mobile applications that prioritise user experience and accessibility. My journey into tech was unconventional—sparked by my love for designs—but it ignited a passion for creating inclusive digital solutions.
 
-- 🔭 Currently working as a Senior Frontend Developer at Afrinvest West Africa.
 - 🌱 Exploring the intersections of design, accessibility, and user experience.
 - 📝 Writing about accessibility and inclusive design on [DEV Community](https://dev.to/nonsoo24/building-for-accessibility-3gke).
 - 🎯 Advocating for web accessibility to ensure the web is usable for everyone.
