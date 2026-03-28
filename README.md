@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/nonsoo24">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=Frontend+Developer;Accessibility+Advocate;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Lead+Software+Engineer;Fintech+%7C+AI+Systems;Scalable+Backend+Architecture;Building+Secure+Financial+Platforms" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,27 +17,61 @@
 
 ### 👨‍💻 About Me
 
-I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I specialise in building scalable web and mobile applications that prioritise user experience and accessibility. My journey into tech was unconventional—sparked by my love for designs—but it ignited a passion for creating inclusive digital solutions.
+I am a Lead Software Engineer with 7+ years of experience building scalable fintech systems, AI-driven financial platforms, and secure backend infrastructures.
+My work focuses on designing production-grade systems for digital banking, investment platforms, and fraud detection using machine learning.
+I have led the development of systems serving 300,000+ users and managing ₦20bn+ in assets, with a strong focus on reliability, security, and scalability.
 
-- 🌱 Exploring the intersections of design, accessibility, and user experience.
-- 📝 Writing about accessibility and inclusive design on [DEV Community](https://dev.to/nonsoo24/building-for-accessibility-3gke).
-- 🎯 Advocating for web accessibility to ensure the web is usable for everyone.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🧠 What I Work On
 
-- **Frontend:** React.js, Vue.js, JavaScript, TypeScript, Next.js, Nuxt.js, Prismic, Gatsby, HTML, Storybook, Redux, Redux toolkit, React query
-- **Mobile:** React native, Nativewind, React native Expo
-- **Design:** Figma, Adobe XD, Sketch
-- **Cloud/DevOps Infrastructure:** Azure (familiarity), Amazon Web Services (AWS) (familiarity), Docker (familiarity)
-- **Version Control:** Git, Github, Bitbucket, Gitlab 
+🔹 AI-driven fraud detection and credit risk systems  
+🔹 Core banking and financial infrastructure  
+🔹 Scalable backend architectures (microservices & event-driven systems)  
+🔹 Real-time transaction processing systems  
+🔹 Secure financial systems (encryption, compliance, audit systems)
+
+---
+
+### 🛠️ Tech Stack
+
+- **Backend: Node.js, Python, C# (.NET), Microservices, Event-driven architecture
+- **AI/ML: Fraud Detection, Credit Risk Modelling, Predictive Systems  
+- **Frontend: React, Next.js, TypeScript  
+- **Mobile: React Native  
+- **Cloud: AWS, Azure, Docker
 - **Styling:** CSS3, SCSS, SASS, Tailwind CSS
 - **CI/CD:** Git Actions, Vercel, Netlify, Amplify, Circle CI, EAS
-- **Project management:** Jira, ClickUp, Trello
-- **Tools:** Git, VS Code, Figma, Webpack  
-- **Testing:** Jest, React testing Library, Cypress
-- **Others:** Accessibility (a11y) best practices, Responsive Design
+- **Data: PostgreSQL, MongoDB, Redis 
+- **Messaging: RabbitMQ
+
+---
+### Featured Projects
+
+### 🟢 PlutusNeo (Afrinvest)
+Digital investment platform serving 300,000+ users and ₦20bn+ AUM  
+Built scalable financial systems including wallets, savings, and investment infrastructure  
+
+### 🟢 Udara360 (Fintellia)
+Core banking platform powering lending, onboarding, and financial transactions  
+Developed AI-driven credit scoring and risk prediction systems  
+
+### 🟢 AI Fraud Detection System
+Designed deep learning models for detecting fraudulent financial transactions  
+Achieved 92% accuracy and supported $450K research funding  
+
+
+---
+
+### 📄 Publications
+
+- The Silent Morality of Machines — Vanguard  
+- AI in Fintech — Techeconomy  
+- Fraud Detection using Deep Learning — NCS Journal  
+
+---
+
 
 ---
 
@@ -58,35 +92,48 @@ I am Daniel Nonso Chukwurah, a Frontend Developer based in Lagos, Nigeria. I spe
 ![Profile Views](https://komarev.com/ghpvc/?username=nonsoo24&color=blueviolet&style=flat)
 
 ---
-💬 Ask me about: Frontend Technologies, Frontend Optimisations, Frontend Architecture, Design Systems, 
+💬 Ask me about: AI-driven financial systems, fraud detection and credit risk modelling, scalable backend architecture, distributed systems, and fintech infrastructure.
 
-🌱 I’m currently learning more about Cloud computing, Kubernetes and Web3.
-
----
-
-### 🗣️ Speaking Engagements
-
-- **STEM Inspired**  
-  Led sessions across 5 public primary schools in Lagos, teaching basic programming and logic to over 350 students.  
-  *Focus:* Bridging the gender gap in STEM and empowering young learners.
-
-- **Building for accessibility**  
-  Spoke at the [Google DevFest Enugu](https://www.linkedin.com/feed/update/urn:li:activity:7008856038934261760/) about the importance of accessible digital products and practical strategies for developers.
-
-> **📢 I'm open to speaking opportunities!**  
-> Reach out to me if you would like me to speak at your event, workshop, or panel on topics like open source, accessibility, or frontend engineering.
-
+🌱 I’m currently exploring advanced cloud architecture, real-time data processing systems, and scaling AI systems in production environments.
 
 ---
 
-### 🤝 Volunteering
+## 🗣️ Speaking Engagements
 
-- **Frontend Developer** @ MetaValuation  
-  Built key UI components for pairwise evaluation flows, contribution visualisation, and contributor circle representation.
+- **Speaker — Nigeria Computer Society (CPN) IT Professionals Assembly, Abuja**  
+  Delivered a keynote session on AI-driven fraud detection and financial security systems, contributing to national discussions on the adoption of artificial intelligence in regulated financial services.
 
-- **Contributor** @ [CHAOSS](https://chaoss.community/) – *Funding Impact Measurement*  
-  Participated in developing metrics that assess the impact of funding in open source ecosystems.  
+- **Speaker — Google Developer Group (DevFest Enugu, Nigeria)**  
+  Delivered a technical session on building accessible and inclusive digital systems to a large audience of developers and engineers.  
+  Shared practical implementation approaches for accessibility in modern applications.  
+  🔗 https://www.linkedin.com/feed/update/urn:li:activity:7008856038934261760/
 
+- **Speaker — Google Developer Group (GDG Ado-Ekiti, Nigeria)**  
+  Delivered a technical session focused on software engineering practices and scalable system design, contributing to developer education and knowledge sharing within the local tech ecosystem.
+
+> 📢 Open to speaking engagements on AI-driven systems, fintech platforms, and scalable software architecture.
+
+
+---
+
+## 🤝 Volunteering & Community Impact
+
+### Women PRIDE Africa
+Led digital inclusion and STEM programmes impacting 5,000+ women and students across Nigeria.  
+Spearheaded initiatives such as #HeForShe and Adopt-A-School, expanding access to digital education across 100+ schools.
+
+### Tech Now Global
+Director of Curriculum & Learning, leading digital skills programmes training 2,000+ young people, with expansion to 6,000+ participants.  
+Designed structured learning pathways and mentored participants into tech careers.
+
+### Techrity
+Delivered digital skills training to teachers and students, training 300+ educators and improving student performance in computer-based assessments.
+
+### Google Developer Group (GDG)
+Speaker at DevFest Enugu, delivering a session on building accessible systems to 700+ developers.
+
+### Veet
+Mentor supporting aspiring developers in software engineering, career growth, and technical skill development.
 
 ---
 
