@@ -36,15 +36,15 @@ I have led the development of systems serving 300,000+ users and managing ₦20b
 
 ### 🛠️ Tech Stack
 
-- **Backend: Node.js, Python, C# (.NET), Microservices, Event-driven architecture
-- **AI/ML: Fraud Detection, Credit Risk Modelling, Predictive Systems  
-- **Frontend: React, Next.js, TypeScript  
-- **Mobile: React Native  
-- **Cloud: AWS, Azure, Docker
-- **Styling:** CSS3, SCSS, SASS, Tailwind CSS
-- **CI/CD:** Git Actions, Vercel, Netlify, Amplify, Circle CI, EAS
-- **Data: PostgreSQL, MongoDB, Redis 
-- **Messaging: RabbitMQ
+- **Backend:** Node.js, Python, C# (.NET), Microservices, Event-driven architecture  
+- **AI/ML:** Fraud Detection, Credit Risk Modelling, Predictive Systems  
+- **Frontend:** React, Next.js, TypeScript  
+- **Mobile:** React Native  
+- **Cloud:** AWS, Azure, Docker  
+- **Styling:** CSS3, SCSS, SASS, Tailwind CSS  
+- **CI/CD:** Git Actions, Vercel, Netlify, Amplify, Circle CI, EAS  
+- **Data:** PostgreSQL, MongoDB, Redis  
+- **Messaging:** RabbitMQ  
 
 ---
 ### Featured Projects
