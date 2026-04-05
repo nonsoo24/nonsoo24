@@ -59,7 +59,7 @@ Developed AI-driven credit scoring and risk prediction systems
 
 ### 🟢 AI Fraud Detection System
 Designed deep learning models for detecting fraudulent financial transactions  
-Achieved 92% accuracy and supported $450K research funding  
+Achieved 92% accuracy and supported $450K research funding.  
 
 
 ---
@@ -129,8 +129,11 @@ Designed structured learning pathways and mentored participants into tech career
 ### Techrity
 Delivered digital skills training to teachers and students, training 300+ educators and improving student performance in computer-based assessments.
 
-### Google Developer Group (GDG)
+### Google Developer Group (GDG) Enugu
 Speaker at DevFest Enugu, delivering a session on building accessible systems to 700+ developers.
+
+### Google Developer Group (GDG) Ado-Ekiti
+Speaker at DevFest Ado-Ekiti, delivering a session on how design systems can make collaboration smoother and turn chaos into clarity to 1000+ developers.
 
 ### Veet
 Mentor supporting aspiring developers in software engineering, career growth, and technical skill development.
